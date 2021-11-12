@@ -29,5 +29,15 @@ After reviewing the Use Case analysis, following are the basic classes and actio
 | 5      | Validate User             |
 > __Note:__ _Other actions have minor play in modeling_
 
+## 2. System Structure
 
+Here we describe the final structure. It should, however, be kept in mind that obtaining the final structure is an iterative excercise - and initial structures is refined as the design moves forward. In particular, the dynamic modeling has an impact on the strucutre. 
+
+### 2.1. Inheritance Structure
+
+With the use case there seems to be no inheretance stucture that could be used becasue of the lack in commonality between classes. In some cases where there is an existance of inheritance it is seem as intuitive and thus ommited in this documentation.
+
+## 3. System Behaviour 
+
+### 3.1 Principle Actor: Create/Edit/Delete Reports
 

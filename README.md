@@ -51,3 +51,17 @@ With the use case there seems to be no inheretance stucture that could be used b
 ### 3.3 UML Diagram for System
 ![alt text](Images/UML.png "UML diagram for system being worked on")
 > __Figure: 3.3: UML diagram for system being created.__
+
+## Installation
+
+Clone the repository:
+
+```
+$ git clone git@github:minty-mango/Cypress-Project
+```
+
+Run `Cypress.exe`
+
+## Special Thanks
+
+A special thanks to all the group members who helped out with design documentions as well as the programming of the application.

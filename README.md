@@ -1,6 +1,8 @@
 # Cypress-Project
 This was an old school project for Introduction to Software Engineering.
 
+> Sidenote: This was a project which we were tasked to create a Design Documentation and application for a group assignment called Cypress. From what I see there seems to be a bit missing from this documentation and hopefully I can update this more along the way. 11/12/2021
+
 ## 1. Overview
 
 After reviewing the Use Case analysis, following are the basic classes and actions that emerge out:

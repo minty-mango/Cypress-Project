@@ -41,4 +41,13 @@ With the use case there seems to be no inheretance stucture that could be used b
 
 ### 3.1 Principle Actor: Create/Edit/Delete Reports
 
-![alt text](Images/createDeleteAction.png "UML Diagram for action Create/Edit/Delete Reports")
+![alt text](Images/createDeleteAction.png "Sequence Diagram for action Create/Edit/Delete Reports")
+> __Figure 3.6.1: Sequence Diagram for action Create/Delete/Edit for Report__
+
+### 3.2 Principle Actor: Validate User
+![alt text](Images/validateAction.png "Sequence Diagram for action Validate User") 
+> __Figure: 3.7.1: Sequence diagram for action Validate User__
+
+### 3.3 UML Diagram for System
+![alt text](Images/UML.png "UML diagram for system being worked on")
+> __Figure: 3.3: UML diagram for system being created.__
